@@ -1,0 +1,11 @@
+* text=auto
+
+*.cpp text
+*.h text
+*.hpp text
+*.lua text
+
+*.png binary
+*.jpg binary
+*.wav binary
+*.dll binary
